@@ -1,0 +1,1 @@
+{"outputConfig": {"modelFormat": "tflite", "gcsDestination": {"outputUriPrefix": "gs://inzynierka1-bucket1/dataset2-leki/models/"}}}
